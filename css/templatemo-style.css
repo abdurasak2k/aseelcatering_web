@@ -1,8 +1,6 @@
 /*
 
-Eatery Cafe Template 
 
-http://www.templatemo.com/tm-515-eatery
 
 */
 
@@ -142,7 +140,8 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   .section-btn {
-    background: #ce3232;
+    /*background: #ce3232;*/
+    background: #a91010;
     border-radius: 0;
     border: 0;
     color: #f9f9f9;
@@ -293,7 +292,8 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #252525;
+    /*background: #252525;*/
+    background: #ffffff;    
     border-color: transparent;
   }
 
@@ -304,7 +304,8 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .custom-navbar.top-nav-collapse {
-      background: #ffffff;
+      /*background: #ffffff;*/
+      background: #ce3232;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -312,16 +313,27 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .navbar-brand {
+      /*color: #454545;*/
       color: #454545;
+    background: #ce3232;
+    /*padding: 3px;*/
+    /* margin: 5px; */
+    /*padding: -1px !important;*/
+    border: 1px solid #ce3232;
+    border-radius: 5px;
     }
 
+
+
     .top-nav-collapse .nav li a {
-      color: #575757;
+      /*color: #575757;*/
+          color: #ffff;
     }
 
     .top-nav-collapse .nav .section-btn a {
       color: #ffffff;
     }
+
   }
 
 
@@ -932,7 +944,8 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .custom-navbar {
-      background: #ffffff;
+      /*background: #ffffff;*/
+          background: #ce3232;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -953,7 +966,8 @@ http://www.templatemo.com/tm-515-eatery
 
     .custom-navbar .nav li a,
     .top-nav-collapse .nav li a {
-      color: #575757;
+      /*color: #575757;*/
+          color: #ffffff;
     }
 
     .custom-navbar .navbar-nav.navbar-right li {
